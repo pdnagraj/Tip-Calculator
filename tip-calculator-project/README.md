@@ -1,7 +1,5 @@
 This is Tip Calculator, a Next-JS Application to calculate tip with one or multiple users. 
 
-~TBD~
-
 ##Download the project then setup the environment
 
 First, run the development server:
